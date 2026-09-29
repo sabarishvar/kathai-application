@@ -1,0 +1,61 @@
+{
+  "title": "Mod-01 Lec-07 Pourbaix diagram",
+  "duration": 3555,
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Potential pH diagram basics",
+      "end_time": 125
+    },
+    {
+      "start_time": 125,
+      "title": "Nickel reduction reaction",
+      "end_time": 402
+    },
+    {
+      "start_time": 402,
+      "title": "Nickel hydroxide formation",
+      "end_time": 709
+    },
+    {
+      "start_time": 709,
+      "title": "Standard reduction potential",
+      "end_time": 1057
+    },
+    {
+      "start_time": 1057,
+      "title": "Interpreting reaction lines",
+      "end_time": 1303
+    },
+    {
+      "start_time": 1303,
+      "title": "Chemical equilibrium analysis",
+      "end_time": 1629
+    },
+    {
+      "start_time": 1629,
+      "title": "pH dependent reactions",
+      "end_time": 1939
+    },
+    {
+      "start_time": 1939,
+      "title": "Intersection of reaction lines",
+      "end_time": 2243
+    },
+    {
+      "start_time": 2243,
+      "title": "Finalizing the diagram",
+      "end_time": 2435
+    },
+    {
+      "start_time": 2435,
+      "title": "Complex ion formation",
+      "end_time": 2866
+    },
+    {
+      "start_time": 2866,
+      "title": "Water redox reactions",
+      "end_time": 3555
+    }
+  ]
+}
