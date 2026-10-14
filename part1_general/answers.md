@@ -15,7 +15,7 @@ Something interesting about me: in first year, I was basically useless, like lit
 RAG (retrieval-augmented generation) is basically an open-book exam for a language model. Instead of answering only from what it memorised during training, the system first searches a collection of documents for the pieces most related to the question, and then gives those pieces to the model so it answers from them. So RAG has two jobs which re finding the right text, and then writing an answer based on it. If the first job fails, the second can't fix it.
 
 For the finding part, the computer needs some idea of meaning. For a computer, meaning is a position in space. An embedding model turns each sentence into a long list of numbers (384 numbers for the MiniLM model I used), and sentences used in similar ways end up close to each other. 
-
+"Semantic meaning" to a computer is an embedding: a list of numbers. Texts with similar meaning get similar numbers, so they sit close together, and "closeness" is measured mathematically (cosine similarity). The computer doesn't understand meaning. It measures how close texts are.
 
 ### 3. Why is dealing with noisy data important?
 
